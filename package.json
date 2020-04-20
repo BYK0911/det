@@ -1,5 +1,5 @@
 {
-  "name": "determinant",
+  "name": "@yukun.bao/det",
   "version": "1.0.0",
   "description": "Determinant js lib",
   "main": "index.js",
